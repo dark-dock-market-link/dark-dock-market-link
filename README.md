@@ -76,4 +76,6 @@ In case the primary **DarkDock Market link** is temporarily unavailable, utilize
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/static/break.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  07/14/2025
+
+
+Update:  18 July
