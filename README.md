@@ -90,4 +90,6 @@ In case the primary **DarkDock Market link** is temporarily unavailable, utilize
 
 
 
-Update:  Saturday 23 August 2025 url is functioning and active
+
+
+Update:  12.09.2025 Link is now functioning and clickable
