@@ -94,4 +94,6 @@ In case the primary **DarkDock Market link** is temporarily unavailable, utilize
 
 
 
-Update:  18 September 2025 onion URLs fixed
+
+
+Update:  Wednesday 01 October 2025
